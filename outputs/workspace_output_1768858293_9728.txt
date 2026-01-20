@@ -1,0 +1,35 @@
+Archive:  SlavkoScore_4.0_Enterprise_Package.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     6049  2026-01-19 19:38   README.md
+     9926  2026-01-19 21:26   CONTRIBUTING.md
+     2059  2026-01-19 21:27   CHANGELOG.md
+     1072  2026-01-19 21:24   LICENSE
+     9630  2026-01-19 21:24   DEPLOYMENT_GUIDE.md
+        0  2026-01-19 21:11   docs/
+    10549  2026-01-19 19:47   docs/README_SlavkoShell_2_0.md
+     9289  2026-01-19 20:18   docs/README_SlavkoScore_4_x.md
+     8496  2026-01-19 19:43   docs/README_SlavkoKernel_v8.md
+     3801  2026-01-19 20:17   docs/README_SlavkoFusion_1_0.md
+     5366  2026-01-19 21:11   docs/Determinism_Guide.md
+     1658  2026-01-19 20:43   docs/API_Reference.md
+        0  2026-01-19 21:16   schemas/
+     2160  2026-01-19 21:12   schemas/input.json
+     2157  2026-01-19 21:13   schemas/audit.json
+     3647  2026-01-19 21:16   schemas/kernel.json
+     3345  2026-01-19 21:13   schemas/score.json
+     5955  2026-01-19 21:15   schemas/fusion.json
+        0  2026-01-19 21:22   ollama/
+        0  2026-01-19 21:21   ollama/modelfiles/
+     1657  2026-01-19 21:19   ollama/modelfiles/Modelfile.phi3-vision
+     1496  2026-01-19 21:21   ollama/modelfiles/Modelfile.qwen2.5
+     1774  2026-01-19 21:16   ollama/modelfiles/Modelfile.deepseek-r1
+     4444  2026-01-19 21:22   ollama/README.md
+        0  2026-01-19 21:23   branding/
+     9180  2026-01-19 21:23   branding/README.md
+        0  2026-01-19 21:30   examples/
+     6486  2026-01-19 21:30   examples/multimodal_evaluation.py
+     5977  2026-01-19 21:29   examples/custom_plugin.py
+     3210  2026-01-19 21:28   examples/quick_start.py
+---------                     -------
+   119383                     30 files

@@ -1,0 +1,2 @@
+ollama/modelfiles/Modelfile.phi3-vision
+ollama/modelfiles/Modelfile.deepseek-r1
